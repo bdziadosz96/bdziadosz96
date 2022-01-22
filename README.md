@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Bartek</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">Java Developer in XTB company</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bdziadosz96&label=Profile%20views&color=0e75b6&style=flat" alt="bdziadosz96" /> </p>
 
-During my free time, I try to actively participate in the community on discord and attend boxing training. I am a student at the Warsaw University of Technology, specializing in Software Engineering.
+
+I'm Bartek from Poland and i really enjoy learning new backend technologies which is my target, during my free time I try to actively participate and resolve problems in the software community on discord and attend boxing training. I am a student at the Warsaw University of Technology, specializing in Software Engineering.
 - 🔭 I’m currently working on [BookStore](https://github.com/bdziadosz96/BookStore)
 
 <h3 align="left">Connect with me:</h3>
