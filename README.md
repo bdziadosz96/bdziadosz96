@@ -17,4 +17,4 @@ I'm Bartek from Poland and i really enjoy learning new backend technologies whic
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bdziadosz96&show_icons=true&locale=en&layout=compact" alt="bdziadosz96" /></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdziadosz96)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdziadosz96&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
