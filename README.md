@@ -5,7 +5,7 @@
 
 ##
 I'm Bartek from Poland and i really enjoy learning new backend technologies which is my target, during my free time I try to actively participate and resolve problems in the software community on discord and attend boxing training. I am a student at the Warsaw University of Technology, specializing in Software Engineering.
-- 🔭 I’m currently working on [Future-Market](https://github.com/bdziadosz96/FutureMarket)
+- 🔭 I’m currently working on [BookStore](https://github.com/bdziadosz96/BookStoreDDD)
 
 <h3 align="left">Contact with me on:</h3>
 <p align="left">
